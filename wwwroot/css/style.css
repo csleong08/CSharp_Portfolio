@@ -1,0 +1,36 @@
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    min-height: 1000px;
+}
+.topIndex{
+    width: 900px;
+    margin-left: 37%;
+}
+.topContact{
+    width: 900px;
+    margin-left: 40%;
+}
+.topProjects{
+    width: 900px;
+    margin-left: 15%;
+}
+.left, .right{
+    width: 450px;
+    display: inline-block;
+}
+h4{
+    text-align: center;
+}
+.middle{
+    overflow: scroll;
+    height: 600px;
+}
+.midLeftProj{
+    width: 200px;
+    display: inline-block;
+}
+.midRightProj{
+    width: 700px;
+    display: inline-block;
+}

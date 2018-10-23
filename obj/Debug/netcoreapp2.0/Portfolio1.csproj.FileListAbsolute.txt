@@ -1,0 +1,11 @@
+/Users/csleong/Desktop/Coding Dojo/csharp/Portfolio1/bin/Debug/netcoreapp2.0/Portfolio1.deps.json
+/Users/csleong/Desktop/Coding Dojo/csharp/Portfolio1/bin/Debug/netcoreapp2.0/Portfolio1.runtimeconfig.json
+/Users/csleong/Desktop/Coding Dojo/csharp/Portfolio1/bin/Debug/netcoreapp2.0/Portfolio1.runtimeconfig.dev.json
+/Users/csleong/Desktop/Coding Dojo/csharp/Portfolio1/bin/Debug/netcoreapp2.0/Portfolio1.dll
+/Users/csleong/Desktop/Coding Dojo/csharp/Portfolio1/bin/Debug/netcoreapp2.0/Portfolio1.pdb
+/Users/csleong/Desktop/Coding Dojo/csharp/Portfolio1/obj/Debug/netcoreapp2.0/Portfolio1.csproj.CoreCompileInputs.cache
+/Users/csleong/Desktop/Coding Dojo/csharp/Portfolio1/obj/Debug/netcoreapp2.0/Portfolio1.AssemblyInfoInputs.cache
+/Users/csleong/Desktop/Coding Dojo/csharp/Portfolio1/obj/Debug/netcoreapp2.0/Portfolio1.AssemblyInfo.cs
+/Users/csleong/Desktop/Coding Dojo/csharp/Portfolio1/obj/Debug/netcoreapp2.0/Portfolio1.dll
+/Users/csleong/Desktop/Coding Dojo/csharp/Portfolio1/obj/Debug/netcoreapp2.0/Portfolio1.pdb
+/Users/csleong/Desktop/Coding Dojo/csharp/Portfolio1/obj/Debug/netcoreapp2.0/Portfolio1.csprojResolveAssemblyReference.cache
